@@ -1,2 +1,2 @@
 # Twitch Tv Follow App
-This is a project for the Free Code Camp assignment. I used ES6 classes to build this one. Sometimes it won't work because the API doesn't respond very well. It was very fun building this because i dwell on twitch often and i was nice to see some of it's data in the background. You can [test the app](http://97ashrey.github.io/twitchfollow).
+This is a project for the Free Code Camp assignment. I used ES6 classes to build this one. Sometimes it won't work because the API doesn't respond very well. It was very fun building this because i dwell on twitch often and i was nice to see some of it's data in the background. You can [test the app](http://97ashrey.github.io/twitchfollow/).
